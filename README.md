@@ -2,13 +2,13 @@
 
 ### 👨‍💻 React Developer | MERN Stack Specialist | Mobile App Enthusiast
 
-[cite_start]I am a results-oriented **React Developer** based in **Puducherry, India**, with over 1 year of production experience[cite: 8]. [cite_start]I specialize in building scalable, pixel-perfect web interfaces and cross-platform mobile applications using the **MERN Stack** and **React Native**[cite: 8, 9].
+I am a results-oriented **React Developer** based in **Puducherry, India**, with over 1 year of production experience. I specialize in building scalable, pixel-perfect web interfaces and cross-platform mobile applications using the **MERN Stack** and **React Native**.
 
-- 🔭 I’m currently working on **Lotus Garden**, a comprehensive Event Management Dashboard.
+- 🔭 I’m currently working on **Enterprise Event Management Systems**.
 - 🌱 I’m currently learning **Advanced Testing (Vitest/Playwright)** and **Docker**.
 - 👯 I’m looking to collaborate on **Open Source React & Next.js projects**.
 - 💬 Ask me about **React, TypeScript, Redux, and State Management**.
-- [cite_start]📫 How to reach me: **aravindhan1722@gmail.com**[cite: 4].
+- 📫 How to reach me: **aravindhan1722@gmail.com**.
 
 ---
 
@@ -37,25 +37,6 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-
----
-
-## 🚀 Featured Projects
-
-### 🌸 [Lotus Garden](https://github.com/[YourUsername]/lotus-garden)
-A comprehensive **Event Management & Admin Dashboard** built with modern web technologies.
-- **Stack:** React 19, TypeScript, TanStack Query, TanStack Router, Zod.
-- **Key Features:** Ticket management system, special event validation, and rigorous E2E testing with Playwright.
-
-### 🧹 [CleanerZ](https://github.com/[YourUsername]/cleanerz)
-[cite_start]A cross-platform **Gig Economy Platform** connecting consumers with cleaning providers[cite: 52, 53].
-- **Stack:** React Native (Mobile), React.js (Admin), Node.js.
-- [cite_start]**Key Features:** Real-time booking workflows, secure payments, and role-based dashboards[cite: 54, 55].
-
-### 🌡️ [HVAC Monitoring System](https://github.com/[YourUsername]/hvac-system)
-[cite_start]An industrial **IoT Dashboard** for real-time system monitoring[cite: 45, 46].
-- **Stack:** MERN Stack, IoT Integration.
-- [cite_start]**Key Features:** Live energy analytics, device status visualization, and historical data reporting[cite: 46, 47].
 
 ---
 
